@@ -140,9 +140,9 @@ This guide explains how to host Eleven on a Pterodactyl panel.
 
 ### 1. Download the Latest Release
 
-Download the latest release from the GitHub releases page:
+Download the latest release directly:
 ```
-https://github.com/OpenUwU/eleven/releases
+https://github.com/OpenUwU/eleven/releases/latest/download/eleven.zip
 ```
 
 ### 2. Get a Pterodactyl Server
